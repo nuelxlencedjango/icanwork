@@ -26,8 +26,9 @@ SECRET_KEY = 'kw_7a3zi3$5pba4fh)hrod=cm_6cnc(t35ivrn)@qs==bz&(d4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['canwork.herokuapp.com', '127.0.0.1']
 
+#ALLOWED_HOSTS = ['websports.herokuapp.com','127.0.0.1']
 
 # Application definition
 
