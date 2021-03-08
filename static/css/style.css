@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h3{
+    font-weight: 800;
+}
+p{
+    font-weight: 500;
+}
+
+.big-banner{
+    background-image: url('../images/background.jpg');
+    background-size: 100%;
+}
+
+.fresh-content{
+    background: linear-gradient(-45deg,#ec5252,#6e1a52);
+}
