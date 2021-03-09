@@ -12,7 +12,7 @@ p{
 }
 
 .big-banner{
-    background-image: url('../images/background.jpg');
+    /*background-image: url('../images/background.jpg');*/
     background-size: 100%;
 }
 
