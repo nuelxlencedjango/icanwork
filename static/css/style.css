@@ -11,10 +11,10 @@ p{
     font-weight: 500;
 }
 
-.big-banner{
-    /*background-image: url('../images/background.jpg');*/
+/*.big-banner{
+    background-image: url('../images/background.jpg');
     background-size: 100%;
-}
+}*/
 
 .fresh-content{
     background: linear-gradient(-45deg,#ec5252,#6e1a52);
